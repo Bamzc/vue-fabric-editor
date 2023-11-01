@@ -51,6 +51,8 @@ yarn serve
 ### 自定义素材
 可自定义字体、设计模板、标题模板等，所有自定义素材在https://github.com/nihaojob/vue-fabric-editor-static 项目中保存。
 
+Pro商业版支持素材管理功能，可以在后台维护字体、模板、字体样式模板、图片素材，支持分类搜索等功能，**快速构建符合自己业务的图片编辑器应用**。
+
 我们通过有偿的方式积累高质量的常见问题、最佳实践文档，欢迎加入星球：
 
 <img src="https://user-images.githubusercontent.com/13534626/231202037-18fe913f-81ab-4cd6-aa87-ada471e27586.png" width="50%" >
@@ -211,13 +213,20 @@ yarn serve
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/JiangShuQ">
+            <img src="https://avatars.githubusercontent.com/u/95730895?v=4" width="80;" alt="JiangShuQ"/>
+            <br />
+            <sub><b>JiangShuQ</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/Bamzc">
             <img src="https://avatars.githubusercontent.com/u/10151046?v=4" width="80;" alt="Bamzc"/>
             <br />
             <sub><b>Bamzc</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/dulltackle">
             <img src="https://avatars.githubusercontent.com/u/45963660?v=4" width="80;" alt="dulltackle"/>
@@ -252,15 +261,15 @@ yarn serve
             <br />
             <sub><b>vvbear</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/wozhi-cl">
             <img src="https://avatars.githubusercontent.com/u/25359239?v=4" width="80;" alt="wozhi-cl"/>
             <br />
             <sub><b>wozhi-cl</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/xiaozeo">
             <img src="https://avatars.githubusercontent.com/u/13568242?v=4" width="80;" alt="xiaozeo"/>
